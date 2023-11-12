@@ -6,8 +6,6 @@ I am a software engineer specializing in building high-end back-end services, we
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Telegram Badge](https://img.shields.io/badge/@MAKSUDKHOJA-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/MAKSUDKHOJA)](https://t.me/MAKSUDKHOJA)
-
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -36,6 +34,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image]()
 ![Image]()
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MAQSUDXOJA&show_icons=true&theme=gotham" alt="maqsud571" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Behruz1a&show_icons=true&theme=gotham" alt="maqsud571" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maqsud571&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Maqsudxoja" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behruz1s&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="BEHRUZ" /></a> </p>
